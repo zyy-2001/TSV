@@ -1,0 +1,94 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.25s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.25s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:03<00:01,  1.24s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.30s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.28s/it]
+  0%|          | 0/817 [00:00<?, ?it/s] 11%|█▏        | 92/817 [00:00<00:00, 919.58it/s] 30%|██▉       | 245/817 [00:00<00:00, 1274.34it/s] 47%|████▋     | 384/817 [00:00<00:00, 1324.84it/s] 64%|██████▎   | 520/817 [00:00<00:00, 1334.57it/s] 80%|████████  | 654/817 [00:00<00:00, 1328.87it/s] 97%|█████████▋| 792/817 [00:00<00:00, 1342.83it/s]100%|██████████| 817/817 [00:00<00:00, 1311.70it/s]
+Epoch 1/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]We detected that you are passing `past_key_values` as a tuple and this is deprecated and will be removed in v4.43. Please use an appropriate `Cache` class (https://huggingface.co/docs/transformers/v4.41.3/en/internal/generation_utils#transformers.Cache)
+Epoch 1/20 Batches: 100%|██████████| 1/1 [00:01<00:00,  1.37s/it]                                                                 epoch_loss: 0.6635614037513733
+Epoch [1/20], Loss: 0.6636
+Best test AUROC: 0.8089, at epoch: 0
+Epoch [1/20],Test AUROC: 0.8089
+Epoch 2/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 2/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.6286922097206116
+Epoch [2/20], Loss: 0.6287
+Best test AUROC: 0.8423, at epoch: 1
+Epoch [2/20],Test AUROC: 0.8423
+Epoch 3/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 3/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.41it/s]                                                                 epoch_loss: 0.49159330129623413
+Epoch [3/20], Loss: 0.4916
+Epoch [3/20],Test AUROC: 0.8363
+Epoch 4/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 4/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.39212363958358765
+Epoch [4/20], Loss: 0.3921
+Epoch [4/20],Test AUROC: 0.8346
+Epoch 5/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 5/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                 epoch_loss: 0.3156312108039856
+Epoch [5/20], Loss: 0.3156
+Epoch [5/20],Test AUROC: 0.8335
+Epoch 6/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 6/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                 epoch_loss: 0.24391213059425354
+Epoch [6/20], Loss: 0.2439
+Epoch [6/20],Test AUROC: 0.8314
+Epoch 7/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 7/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                 epoch_loss: 0.18460088968276978
+Epoch [7/20], Loss: 0.1846
+Epoch [7/20],Test AUROC: 0.8330
+Epoch 8/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 8/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.13407336175441742
+Epoch [8/20], Loss: 0.1341
+Epoch [8/20],Test AUROC: 0.8365
+Epoch 9/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 9/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.09380413591861725
+Epoch [9/20], Loss: 0.0938
+Epoch [9/20],Test AUROC: 0.8375
+Epoch 10/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 10/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.061628296971321106
+Epoch [10/20], Loss: 0.0616
+Epoch [10/20],Test AUROC: 0.8377
+Epoch 11/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 11/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.037671513855457306
+Epoch [11/20], Loss: 0.0377
+Epoch [11/20],Test AUROC: 0.8381
+Epoch 12/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 12/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                  epoch_loss: 0.02246328443288803
+Epoch [12/20], Loss: 0.0225
+Epoch [12/20],Test AUROC: 0.8381
+Epoch 13/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 13/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.01401070598512888
+Epoch [13/20], Loss: 0.0140
+Epoch [13/20],Test AUROC: 0.8381
+Epoch 14/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 14/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.00927842129021883
+Epoch [14/20], Loss: 0.0093
+Epoch [14/20],Test AUROC: 0.8363
+Epoch 15/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 15/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.006412655580788851
+Epoch [15/20], Loss: 0.0064
+Epoch [15/20],Test AUROC: 0.8348
+Epoch 16/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 16/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.004617627710103989
+Epoch [16/20], Loss: 0.0046
+Epoch [16/20],Test AUROC: 0.8304
+Epoch 17/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 17/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                  epoch_loss: 0.0034489077515900135
+Epoch [17/20], Loss: 0.0034
+Epoch [17/20],Test AUROC: 0.8263
+Epoch 18/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 18/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.0026514283381402493
+Epoch [18/20], Loss: 0.0027
+Epoch [18/20],Test AUROC: 0.8250
+Epoch 19/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 19/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.41it/s]                                                                  epoch_loss: 0.002089057583361864
+Epoch [19/20], Loss: 0.0021
+Epoch [19/20],Test AUROC: 0.8238
+Epoch 20/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 20/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                  epoch_loss: 0.0016769072972238064
+Epoch [20/20], Loss: 0.0017
+Epoch [20/20],Test AUROC: 0.8261
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:02,  1.08it/s] 50%|█████     | 2/4 [00:01<00:01,  1.03it/s] 75%|███████▌  | 3/4 [00:02<00:00,  1.07it/s]100%|██████████| 4/4 [00:03<00:00,  1.04it/s]100%|██████████| 4/4 [00:03<00:00,  1.05it/s]
+tsv_main3.py:175: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  exemplar_label = torch.tensor(exemplar_labels).cuda()
+tsv_main3.py:182: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  augmented_labels = torch.concat((selected_labels, torch.tensor(exemplar_labels).clone().cuda()))
+Epoch 1/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 1/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.77s/it]Epoch 1/20 Batches: 100%|██████████| 2/2 [00:02<00:00,  1.03it/s]                                                                 epoch_loss: 0.000497053493745625
+Epoch [1/20], Loss: 0.0005
+Epoch 2/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 2/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.79s/it]Epoch 2/20 Batches: 100%|██████████| 2/2 [00:02<00:00,  1.02it/s]                                                                 epoch_loss: 0.00040785169694572686
+Epoch [2/20], Loss: 0.0004
+Epoch 3/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+                                                         Traceback (most recent call last):
+  File "tsv_main3.py", line 692, in <module>
+    main()
+  File "tsv_main3.py", line 688, in main
+    train_model(model, optimizer, device, prompts, labels, args=args)
+  File "tsv_main3.py", line 232, in train_model
+    scaler.scale(loss).backward()
+  File "/data/zyy/miniforge3/envs/tsv/lib/python3.8/site-packages/torch/_tensor.py", line 525, in backward
+    torch.autograd.backward(
+  File "/data/zyy/miniforge3/envs/tsv/lib/python3.8/site-packages/torch/autograd/__init__.py", line 267, in backward
+    _engine_run_backward(
+  File "/data/zyy/miniforge3/envs/tsv/lib/python3.8/site-packages/torch/autograd/graph.py", line 744, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 4.51 GiB. GPU 

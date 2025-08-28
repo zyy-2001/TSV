@@ -1,0 +1,156 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.22s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.21s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:03<00:01,  1.20s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it]
+  0%|          | 0/817 [00:00<?, ?it/s] 17%|█▋        | 140/817 [00:00<00:00, 1391.75it/s] 36%|███▌      | 294/817 [00:00<00:00, 1476.90it/s] 54%|█████▍    | 444/817 [00:00<00:00, 1485.39it/s] 73%|███████▎  | 600/817 [00:00<00:00, 1512.64it/s] 92%|█████████▏| 752/817 [00:00<00:00, 1502.25it/s]100%|██████████| 817/817 [00:00<00:00, 1499.47it/s]
+Epoch 1/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]We detected that you are passing `past_key_values` as a tuple and this is deprecated and will be removed in v4.43. Please use an appropriate `Cache` class (https://huggingface.co/docs/transformers/v4.41.3/en/internal/generation_utils#transformers.Cache)
+Epoch 1/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.05it/s]                                                                 epoch_loss: 0.7265129089355469
+Epoch [1/20], Loss: 0.7265
+Best test AUROC: 0.2549, at epoch: 0
+Epoch [1/20],Test AUROC: 0.2549
+Epoch 2/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 2/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.7205116748809814
+Epoch [2/20], Loss: 0.7205
+Best test AUROC: 0.2647, at epoch: 1
+Epoch [2/20],Test AUROC: 0.2647
+Epoch 3/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 3/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.07it/s]                                                                 epoch_loss: 0.7178518772125244
+Epoch [3/20], Loss: 0.7179
+Best test AUROC: 0.7094, at epoch: 2
+Epoch [3/20],Test AUROC: 0.7094
+Epoch 4/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 4/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                 epoch_loss: 0.6948319673538208
+Epoch [4/20], Loss: 0.6948
+Best test AUROC: 0.8342, at epoch: 3
+Epoch [4/20],Test AUROC: 0.8342
+Epoch 5/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 5/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.41it/s]                                                                 epoch_loss: 0.5377689599990845
+Epoch [5/20], Loss: 0.5378
+Best test AUROC: 0.8585, at epoch: 4
+Epoch [5/20],Test AUROC: 0.8585
+Epoch 6/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 6/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.422410249710083
+Epoch [6/20], Loss: 0.4224
+Best test AUROC: 0.8704, at epoch: 5
+Epoch [6/20],Test AUROC: 0.8704
+Epoch 7/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 7/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.3166869878768921
+Epoch [7/20], Loss: 0.3167
+Best test AUROC: 0.8743, at epoch: 6
+Epoch [7/20],Test AUROC: 0.8743
+Epoch 8/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 8/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                 epoch_loss: 0.2222212553024292
+Epoch [8/20], Loss: 0.2222
+Epoch [8/20],Test AUROC: 0.8706
+Epoch 9/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 9/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                 epoch_loss: 0.1429549902677536
+Epoch [9/20], Loss: 0.1430
+Epoch [9/20],Test AUROC: 0.8681
+Epoch 10/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 10/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                  epoch_loss: 0.08771109580993652
+Epoch [10/20], Loss: 0.0877
+Epoch [10/20],Test AUROC: 0.8719
+Epoch 11/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 11/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                  epoch_loss: 0.05417816713452339
+Epoch [11/20], Loss: 0.0542
+Epoch [11/20],Test AUROC: 0.8705
+Epoch 12/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 12/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.37it/s]                                                                  epoch_loss: 0.034591883420944214
+Epoch [12/20], Loss: 0.0346
+Epoch [12/20],Test AUROC: 0.8696
+Epoch 13/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 13/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                  epoch_loss: 0.022691115736961365
+Epoch [13/20], Loss: 0.0227
+Epoch [13/20],Test AUROC: 0.8690
+Epoch 14/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 14/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.37it/s]                                                                  epoch_loss: 0.014997121877968311
+Epoch [14/20], Loss: 0.0150
+Epoch [14/20],Test AUROC: 0.8677
+Epoch 15/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 15/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                  epoch_loss: 0.01007278822362423
+Epoch [15/20], Loss: 0.0101
+Epoch [15/20],Test AUROC: 0.8668
+Epoch 16/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 16/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.39it/s]                                                                  epoch_loss: 0.0070076375268399715
+Epoch [16/20], Loss: 0.0070
+Epoch [16/20],Test AUROC: 0.8672
+Epoch 17/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 17/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.40it/s]                                                                  epoch_loss: 0.0050274585373699665
+Epoch [17/20], Loss: 0.0050
+Epoch [17/20],Test AUROC: 0.8655
+Epoch 18/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 18/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                  epoch_loss: 0.0036931904032826424
+Epoch [18/20], Loss: 0.0037
+Epoch [18/20],Test AUROC: 0.8663
+Epoch 19/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 19/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.38it/s]                                                                  epoch_loss: 0.0027636969462037086
+Epoch [19/20], Loss: 0.0028
+Epoch [19/20],Test AUROC: 0.8659
+Epoch 20/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 20/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.37it/s]                                                                  epoch_loss: 0.0020957174710929394
+Epoch [20/20], Loss: 0.0021
+Epoch [20/20],Test AUROC: 0.8664
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:02,  1.08it/s] 50%|█████     | 2/4 [00:01<00:01,  1.02it/s] 75%|███████▌  | 3/4 [00:02<00:00,  1.07it/s]100%|██████████| 4/4 [00:03<00:00,  1.04it/s]100%|██████████| 4/4 [00:03<00:00,  1.04it/s]
+tsv_main3.py:175: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  exemplar_label = torch.tensor(exemplar_labels).cuda()
+tsv_main3.py:182: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  augmented_labels = torch.concat((selected_labels, torch.tensor(exemplar_labels).clone().cuda()))
+Epoch 1/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 1/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 1/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0009651724947616458
+Epoch [1/20], Loss: 0.0010
+Epoch 2/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 2/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 2/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0007724931230768562
+Epoch [2/20], Loss: 0.0008
+Epoch 3/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 3/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 3/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0006238452391698956
+Epoch [3/20], Loss: 0.0006
+Epoch 4/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 4/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 4/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0005083829862996935
+Epoch [4/20], Loss: 0.0005
+Epoch 5/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 5/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.36s/it]Epoch 5/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0004184090066701174
+Epoch [5/20], Loss: 0.0004
+Epoch 6/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 6/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 6/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0003477978403680027
+Epoch [6/20], Loss: 0.0003
+Epoch 7/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 7/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 7/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0002921899664215744
+Epoch [7/20], Loss: 0.0003
+Epoch 8/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 8/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 8/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                 epoch_loss: 0.0002478637499734759
+Epoch [8/20], Loss: 0.0002
+Epoch 9/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 9/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 9/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.24it/s]                                                                 epoch_loss: 0.00021251030266284944
+Epoch [9/20], Loss: 0.0002
+Epoch 10/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 10/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 10/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 0.00018409971380606294
+Epoch [10/20], Loss: 0.0002
+Epoch 11/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 11/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 11/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 0.00016129551222547888
+Epoch [11/20], Loss: 0.0002
+Epoch 12/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 12/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 12/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 0.00014258141163736582
+Epoch [12/20], Loss: 0.0001
+Epoch 13/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 13/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 13/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 0.0001273204426979646
+Epoch [13/20], Loss: 0.0001
+Epoch 14/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 14/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 14/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 0.00011463250557426363
+Epoch [14/20], Loss: 0.0001
+Epoch 15/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 15/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 15/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 0.0001042213145410642
+Epoch [15/20], Loss: 0.0001
+Epoch 16/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 16/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 16/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 9.549566311761737e-05
+Epoch [16/20], Loss: 0.0001
+Epoch 17/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 17/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 17/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 8.812956803012639e-05
+Epoch [17/20], Loss: 0.0001
+Epoch 18/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 18/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 18/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.24it/s]                                                                  epoch_loss: 8.18484477349557e-05
+Epoch [18/20], Loss: 0.0001
+Epoch 19/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 19/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 19/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 7.652620552107691e-05
+Epoch [19/20], Loss: 0.0001
+Epoch 20/20 Batches:   0%|          | 0/2 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 20/20 Batches:  50%|█████     | 1/2 [00:01<00:01,  1.35s/it]Epoch 20/20 Batches: 100%|██████████| 2/2 [00:01<00:00,  1.25it/s]                                                                  epoch_loss: 7.194944337243214e-05
+Epoch [20/20], Loss: 0.0001
+best_test_auroc: 0.8742580645161291

@@ -1,0 +1,189 @@
+Map:   0%|          | 0/17944 [00:00<?, ? examples/s]Map:   1%|          | 120/17944 [00:00<00:15, 1182.25 examples/s]Map:   1%|▏         | 249/17944 [00:00<00:14, 1238.35 examples/s]Map:   2%|▏         | 378/17944 [00:00<00:13, 1256.65 examples/s]Map:   3%|▎         | 508/17944 [00:00<00:13, 1268.02 examples/s]Map:   4%|▎         | 638/17944 [00:00<00:13, 1274.62 examples/s]Map:   4%|▍         | 767/17944 [00:00<00:13, 1274.27 examples/s]Map:   5%|▍         | 897/17944 [00:00<00:13, 1277.92 examples/s]Map:   6%|▌         | 1027/17944 [00:00<00:13, 1280.27 examples/s]Map:   6%|▋         | 1156/17944 [00:00<00:13, 1279.87 examples/s]Map:   7%|▋         | 1285/17944 [00:01<00:13, 1279.12 examples/s]Map:   8%|▊         | 1415/17944 [00:01<00:12, 1281.92 examples/s]Map:   9%|▊         | 1545/17944 [00:01<00:12, 1282.53 examples/s]Map:   9%|▉         | 1674/17944 [00:01<00:12, 1282.57 examples/s]Map:  10%|█         | 1804/17944 [00:01<00:12, 1284.65 examples/s]Map:  11%|█         | 1996/17944 [00:01<00:12, 1282.23 examples/s]Map:  12%|█▏        | 2126/17944 [00:01<00:12, 1283.82 examples/s]Map:  13%|█▎        | 2255/17944 [00:01<00:12, 1281.02 examples/s]Map:  13%|█▎        | 2384/17944 [00:01<00:12, 1282.60 examples/s]Map:  14%|█▍        | 2513/17944 [00:01<00:12, 1283.25 examples/s]Map:  15%|█▍        | 2643/17944 [00:02<00:11, 1285.87 examples/s]Map:  15%|█▌        | 2773/17944 [00:02<00:11, 1286.59 examples/s]Map:  16%|█▌        | 2902/17944 [00:02<00:11, 1286.23 examples/s]Map:  17%|█▋        | 3032/17944 [00:02<00:11, 1286.65 examples/s]Map:  18%|█▊        | 3223/17944 [00:02<00:11, 1275.29 examples/s]Map:  19%|█▊        | 3353/17944 [00:02<00:11, 1278.34 examples/s]Map:  20%|█▉        | 3546/17944 [00:02<00:11, 1277.66 examples/s]Map:  20%|██        | 3676/17944 [00:02<00:11, 1280.73 examples/s]Map:  21%|██        | 3806/17944 [00:02<00:11, 1283.06 examples/s]Map:  22%|██▏       | 3936/17944 [00:03<00:10, 1283.86 examples/s]Map:  23%|██▎       | 4066/17944 [00:03<00:10, 1283.85 examples/s]Map:  23%|██▎       | 4196/17944 [00:03<00:10, 1284.79 examples/s]Map:  24%|██▍       | 4388/17944 [00:03<00:10, 1277.71 examples/s]Map:  25%|██▌       | 4518/17944 [00:03<00:10, 1280.64 examples/s]Map:  26%|██▌       | 4647/17944 [00:03<00:10, 1279.28 examples/s]Map:  27%|██▋       | 4776/17944 [00:03<00:10, 1277.48 examples/s]Map:  27%|██▋       | 4906/17944 [00:03<00:10, 1280.43 examples/s]Map:  28%|██▊       | 5035/17944 [00:03<00:10, 1281.25 examples/s]Map:  29%|██▉       | 5165/17944 [00:04<00:09, 1282.30 examples/s]Map:  30%|██▉       | 5295/17944 [00:04<00:09, 1284.38 examples/s]Map:  31%|███       | 5487/17944 [00:04<00:09, 1281.68 examples/s]Map:  31%|███▏      | 5616/17944 [00:04<00:09, 1281.41 examples/s]Map:  32%|███▏      | 5745/17944 [00:04<00:09, 1281.57 examples/s]Map:  33%|███▎      | 5875/17944 [00:04<00:09, 1284.07 examples/s]Map:  33%|███▎      | 6005/17944 [00:04<00:09, 1286.73 examples/s]Map:  34%|███▍      | 6135/17944 [00:04<00:09, 1284.91 examples/s]Map:  35%|███▍      | 6265/17944 [00:04<00:09, 1287.00 examples/s]Map:  36%|███▌      | 6395/17944 [00:04<00:08, 1288.44 examples/s]Map:  36%|███▋      | 6524/17944 [00:05<00:08, 1285.94 examples/s]Map:  37%|███▋      | 6715/17944 [00:05<00:08, 1276.93 examples/s]Map:  38%|███▊      | 6843/17944 [00:05<00:08, 1275.22 examples/s]Map:  39%|███▉      | 6973/17944 [00:05<00:08, 1278.98 examples/s]Map:  40%|███▉      | 7103/17944 [00:05<00:08, 1281.29 examples/s]Map:  40%|████      | 7233/17944 [00:05<00:08, 1282.56 examples/s]Map:  41%|████      | 7363/17944 [00:05<00:08, 1283.68 examples/s]Map:  42%|████▏     | 7552/17944 [00:05<00:08, 1271.66 examples/s]Map:  43%|████▎     | 7680/17944 [00:06<00:08, 1269.53 examples/s]Map:  44%|████▍     | 7868/17944 [00:06<00:08, 1257.80 examples/s]Map:  45%|████▍     | 8050/17944 [00:06<00:07, 1239.42 examples/s]Map:  46%|████▌     | 8177/17944 [00:06<00:07, 1243.97 examples/s]Map:  46%|████▋     | 8303/17944 [00:06<00:07, 1246.88 examples/s]Map:  47%|████▋     | 8466/17944 [00:06<00:08, 1056.71 examples/s]Map:  48%|████▊     | 8609/17944 [00:06<00:09, 1021.95 examples/s]Map:  49%|████▊     | 8726/17944 [00:07<00:09, 945.77 examples/s] Map:  49%|████▉     | 8868/17944 [00:07<00:09, 944.03 examples/s]Map:  50%|█████     | 8983/17944 [00:07<00:10, 887.16 examples/s]Map:  51%|█████     | 9075/17944 [00:07<00:09, 892.05 examples/s]Map:  51%|█████     | 9167/17944 [00:07<00:09, 896.58 examples/s]Map:  52%|█████▏    | 9286/17944 [00:07<00:10, 858.26 examples/s]Map:  52%|█████▏    | 9390/17944 [00:07<00:09, 899.39 examples/s]Map:  53%|█████▎    | 9502/17944 [00:07<00:10, 844.19 examples/s]Map:  54%|█████▎    | 9602/17944 [00:08<00:09, 880.81 examples/s]Map:  54%|█████▍    | 9725/17944 [00:08<00:09, 856.84 examples/s]Map:  55%|█████▍    | 9868/17944 [00:08<00:09, 886.21 examples/s]Map:  59%|█████▊    | 10534/17944 [00:08<00:03, 2014.00 examples/s]Map:  66%|██████▌   | 11881/17944 [00:08<00:01, 4676.92 examples/s]Map:  75%|███████▍  | 13372/17944 [00:08<00:00, 7226.26 examples/s]Map:  81%|████████  | 14501/17944 [00:08<00:00, 8291.21 examples/s]Map:  88%|████████▊ | 15846/17944 [00:08<00:00, 9697.32 examples/s]Map:  96%|█████████▋| 17310/17944 [00:08<00:00, 11080.21 examples/s]Map: 100%|██████████| 17944/17944 [00:09<00:00, 1915.25 examples/s] 
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:04,  1.45s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.42s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:04<00:01,  1.37s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.38s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.39s/it]
+  0%|          | 0/9960 [00:00<?, ?it/s]  1%|          | 100/9960 [00:00<00:09, 997.99it/s]  2%|▏         | 218/9960 [00:00<00:08, 1099.83it/s]  4%|▎         | 354/9960 [00:00<00:07, 1217.90it/s]  5%|▍         | 476/9960 [00:00<00:08, 1163.38it/s]  6%|▌         | 599/9960 [00:00<00:07, 1184.26it/s]  7%|▋         | 728/9960 [00:00<00:07, 1218.19it/s]  9%|▊         | 851/9960 [00:00<00:07, 1155.46it/s] 10%|▉         | 979/9960 [00:00<00:07, 1191.92it/s] 11%|█         | 1104/9960 [00:00<00:07, 1206.91it/s] 12%|█▏        | 1226/9960 [00:01<00:07, 1151.44it/s] 14%|█▎        | 1355/9960 [00:01<00:07, 1190.20it/s] 15%|█▌        | 1521/9960 [00:01<00:06, 1326.16it/s] 17%|█▋        | 1656/9960 [00:01<00:06, 1332.68it/s] 18%|█▊        | 1794/9960 [00:01<00:06, 1344.13it/s] 20%|█▉        | 1955/9960 [00:01<00:05, 1422.17it/s] 21%|██▏       | 2121/9960 [00:01<00:05, 1492.82it/s] 23%|██▎       | 2285/9960 [00:01<00:04, 1535.30it/s] 24%|██▍       | 2439/9960 [00:01<00:05, 1439.55it/s] 26%|██▌       | 2585/9960 [00:01<00:05, 1424.73it/s] 27%|██▋       | 2729/9960 [00:02<00:05, 1349.86it/s] 29%|██▉       | 2866/9960 [00:02<00:05, 1310.73it/s] 30%|███       | 3029/9960 [00:02<00:04, 1398.88it/s] 32%|███▏      | 3191/9960 [00:02<00:04, 1460.61it/s] 34%|███▎      | 3361/9960 [00:02<00:04, 1529.39it/s] 35%|███▌      | 3531/9960 [00:02<00:04, 1577.85it/s] 37%|███▋      | 3697/9960 [00:02<00:03, 1600.30it/s] 39%|███▉      | 3862/9960 [00:02<00:03, 1613.72it/s] 40%|████      | 4024/9960 [00:02<00:03, 1605.36it/s] 42%|████▏     | 4187/9960 [00:03<00:03, 1611.13it/s] 44%|████▎     | 4350/9960 [00:03<00:03, 1614.47it/s] 45%|████▌     | 4514/9960 [00:03<00:03, 1620.24it/s] 47%|████▋     | 4677/9960 [00:03<00:03, 1617.06it/s] 49%|████▊     | 4847/9960 [00:03<00:03, 1641.67it/s] 50%|█████     | 5024/9960 [00:03<00:02, 1676.86it/s] 52%|█████▏    | 5192/9960 [00:03<00:02, 1671.08it/s] 54%|█████▍    | 5360/9960 [00:03<00:02, 1673.44it/s] 56%|█████▌    | 5528/9960 [00:03<00:02, 1574.59it/s] 57%|█████▋    | 5687/9960 [00:03<00:03, 1419.94it/s] 59%|█████▊    | 5833/9960 [00:04<00:02, 1415.87it/s] 60%|██████    | 5977/9960 [00:04<00:03, 1324.40it/s] 61%|██████▏   | 6112/9960 [00:04<00:03, 1280.90it/s] 63%|██████▎   | 6255/9960 [00:04<00:02, 1318.49it/s] 64%|██████▍   | 6389/9960 [00:04<00:02, 1240.33it/s] 65%|██████▌   | 6515/9960 [00:04<00:02, 1235.32it/s] 67%|██████▋   | 6653/9960 [00:04<00:02, 1274.86it/s] 68%|██████▊   | 6782/9960 [00:04<00:02, 1222.47it/s] 69%|██████▉   | 6906/9960 [00:04<00:02, 1212.47it/s] 71%|███████   | 7047/9960 [00:05<00:02, 1265.40it/s] 72%|███████▏  | 7175/9960 [00:05<00:02, 1225.21it/s] 73%|███████▎  | 7299/9960 [00:05<00:02, 1214.17it/s] 75%|███████▍  | 7433/9960 [00:05<00:02, 1249.81it/s] 76%|███████▌  | 7559/9960 [00:05<00:02, 1152.35it/s] 77%|███████▋  | 7692/9960 [00:05<00:01, 1199.96it/s] 79%|███████▉  | 7844/9960 [00:05<00:01, 1288.63it/s] 80%|████████  | 7976/9960 [00:05<00:01, 1295.76it/s] 82%|████████▏ | 8141/9960 [00:05<00:01, 1397.23it/s] 83%|████████▎ | 8312/9960 [00:06<00:01, 1488.76it/s] 85%|████████▌ | 8484/9960 [00:06<00:00, 1554.93it/s] 87%|████████▋ | 8655/9960 [00:06<00:00, 1598.09it/s] 89%|████████▊ | 8826/9960 [00:06<00:00, 1629.35it/s] 90%|█████████ | 9004/9960 [00:06<00:00, 1672.57it/s] 92%|█████████▏| 9179/9960 [00:06<00:00, 1694.80it/s] 94%|█████████▍| 9349/9960 [00:06<00:00, 1666.02it/s] 96%|█████████▌| 9516/9960 [00:06<00:00, 1646.99it/s] 97%|█████████▋| 9681/9960 [00:06<00:00, 1511.56it/s] 99%|█████████▉| 9844/9960 [00:06<00:00, 1542.31it/s]100%|██████████| 9960/9960 [00:07<00:00, 1414.45it/s]
+Epoch 1/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]We detected that you are passing `past_key_values` as a tuple and this is deprecated and will be removed in v4.43. Please use an appropriate `Cache` class (https://huggingface.co/docs/transformers/v4.41.3/en/internal/generation_utils#transformers.Cache)
+Epoch 1/20 Batches: 100%|██████████| 1/1 [00:01<00:00,  1.74s/it]                                                                 epoch_loss: 0.6789586544036865
+Epoch [1/20], Loss: 0.6790
+Best test AUROC: 0.5615, at epoch: 0
+Epoch [1/20],Test AUROC: 0.5615
+Epoch 2/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 2/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                 epoch_loss: 0.6748303174972534
+Epoch [2/20], Loss: 0.6748
+Best test AUROC: 0.7567, at epoch: 1
+Epoch [2/20],Test AUROC: 0.7567
+Epoch 3/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 3/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                 epoch_loss: 0.5772292017936707
+Epoch [3/20], Loss: 0.5772
+Best test AUROC: 0.7935, at epoch: 2
+Epoch [3/20],Test AUROC: 0.7935
+Epoch 4/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 4/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                 epoch_loss: 0.46427619457244873
+Epoch [4/20], Loss: 0.4643
+Best test AUROC: 0.8009, at epoch: 3
+Epoch [4/20],Test AUROC: 0.8009
+Epoch 5/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 5/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                 epoch_loss: 0.3591626286506653
+Epoch [5/20], Loss: 0.3592
+Best test AUROC: 0.8035, at epoch: 4
+Epoch [5/20],Test AUROC: 0.8035
+Epoch 6/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 6/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                 epoch_loss: 0.2582240104675293
+Epoch [6/20], Loss: 0.2582
+Best test AUROC: 0.8069, at epoch: 5
+Epoch [6/20],Test AUROC: 0.8069
+Epoch 7/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 7/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                 epoch_loss: 0.17842060327529907
+Epoch [7/20], Loss: 0.1784
+Best test AUROC: 0.8093, at epoch: 6
+Epoch [7/20],Test AUROC: 0.8093
+Epoch 8/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 8/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                 epoch_loss: 0.12029877305030823
+Epoch [8/20], Loss: 0.1203
+Best test AUROC: 0.8111, at epoch: 7
+Epoch [8/20],Test AUROC: 0.8111
+Epoch 9/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 9/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                 epoch_loss: 0.07939475029706955
+Epoch [9/20], Loss: 0.0794
+Best test AUROC: 0.8124, at epoch: 8
+Epoch [9/20],Test AUROC: 0.8124
+Epoch 10/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 10/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                  epoch_loss: 0.052699439227581024
+Epoch [10/20], Loss: 0.0527
+Best test AUROC: 0.8131, at epoch: 9
+Epoch [10/20],Test AUROC: 0.8131
+Epoch 11/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 11/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                  epoch_loss: 0.03551214933395386
+Epoch [11/20], Loss: 0.0355
+Epoch [11/20],Test AUROC: 0.8131
+Epoch 12/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 12/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                  epoch_loss: 0.03750135377049446
+Epoch [12/20], Loss: 0.0375
+Best test AUROC: 0.8139, at epoch: 11
+Epoch [12/20],Test AUROC: 0.8139
+Epoch 13/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 13/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                  epoch_loss: 0.025928746908903122
+Epoch [13/20], Loss: 0.0259
+Best test AUROC: 0.8146, at epoch: 12
+Epoch [13/20],Test AUROC: 0.8146
+Epoch 14/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 14/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                  epoch_loss: 0.018097208812832832
+Epoch [14/20], Loss: 0.0181
+Best test AUROC: 0.8151, at epoch: 13
+Epoch [14/20],Test AUROC: 0.8151
+Epoch 15/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 15/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                  epoch_loss: 0.012876254506409168
+Epoch [15/20], Loss: 0.0129
+Best test AUROC: 0.8153, at epoch: 14
+Epoch [15/20],Test AUROC: 0.8153
+Epoch 16/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 16/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                  epoch_loss: 0.009118828922510147
+Epoch [16/20], Loss: 0.0091
+Best test AUROC: 0.8155, at epoch: 15
+Epoch [16/20],Test AUROC: 0.8155
+Epoch 17/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 17/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.03it/s]                                                                  epoch_loss: 0.006881753448396921
+Epoch [17/20], Loss: 0.0069
+Best test AUROC: 0.8158, at epoch: 16
+Epoch [17/20],Test AUROC: 0.8158
+Epoch 18/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 18/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                  epoch_loss: 0.00537088280543685
+Epoch [18/20], Loss: 0.0054
+Best test AUROC: 0.8161, at epoch: 17
+Epoch [18/20],Test AUROC: 0.8161
+Epoch 19/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 19/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                  epoch_loss: 0.004168577026575804
+Epoch [19/20], Loss: 0.0042
+Best test AUROC: 0.8165, at epoch: 18
+Epoch [19/20],Test AUROC: 0.8165
+Epoch 20/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 20/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  1.04it/s]                                                                  epoch_loss: 0.0032888080459088087
+Epoch [20/20], Loss: 0.0033
+Best test AUROC: 0.8168, at epoch: 19
+Epoch [20/20],Test AUROC: 0.8168
+  0%|          | 0/115 [00:00<?, ?it/s]  1%|          | 1/115 [00:00<00:55,  2.05it/s]  2%|▏         | 2/115 [00:01<00:58,  1.93it/s]  3%|▎         | 3/115 [00:01<00:49,  2.28it/s]  3%|▎         | 4/115 [00:01<00:53,  2.09it/s]  4%|▍         | 5/115 [00:02<00:53,  2.05it/s]  5%|▌         | 6/115 [00:02<00:50,  2.16it/s]  6%|▌         | 7/115 [00:03<00:46,  2.33it/s]  7%|▋         | 8/115 [00:03<00:45,  2.33it/s]  8%|▊         | 9/115 [00:04<00:48,  2.20it/s]  9%|▊         | 10/115 [00:04<00:50,  2.08it/s] 10%|▉         | 11/115 [00:04<00:45,  2.30it/s] 10%|█         | 12/115 [00:05<00:49,  2.09it/s] 11%|█▏        | 13/115 [00:06<00:49,  2.06it/s] 12%|█▏        | 14/115 [00:06<00:49,  2.02it/s] 13%|█▎        | 15/115 [00:06<00:44,  2.23it/s] 14%|█▍        | 16/115 [00:07<00:49,  2.02it/s] 15%|█▍        | 17/115 [00:08<00:50,  1.93it/s] 16%|█▌        | 18/115 [00:08<00:52,  1.86it/s] 17%|█▋        | 19/115 [00:09<00:45,  2.09it/s] 17%|█▋        | 20/115 [00:09<00:44,  2.15it/s] 18%|█▊        | 21/115 [00:09<00:45,  2.06it/s] 19%|█▉        | 22/115 [00:10<00:45,  2.03it/s] 20%|██        | 23/115 [00:10<00:41,  2.24it/s] 21%|██        | 24/115 [00:11<00:39,  2.30it/s] 22%|██▏       | 25/115 [00:11<00:36,  2.47it/s] 23%|██▎       | 26/115 [00:11<00:34,  2.60it/s] 23%|██▎       | 27/115 [00:12<00:37,  2.32it/s] 24%|██▍       | 28/115 [00:13<00:40,  2.14it/s] 25%|██▌       | 29/115 [00:13<00:45,  1.90it/s] 26%|██▌       | 30/115 [00:14<00:45,  1.88it/s] 27%|██▋       | 31/115 [00:14<00:41,  2.04it/s] 28%|██▊       | 32/115 [00:15<00:40,  2.03it/s] 29%|██▊       | 33/115 [00:15<00:43,  1.89it/s] 30%|██▉       | 34/115 [00:16<00:41,  1.96it/s] 30%|███       | 35/115 [00:16<00:39,  2.02it/s] 31%|███▏      | 36/115 [00:17<00:40,  1.95it/s] 32%|███▏      | 37/115 [00:17<00:41,  1.89it/s] 33%|███▎      | 38/115 [00:18<00:39,  1.94it/s] 34%|███▍      | 39/115 [00:18<00:36,  2.08it/s] 35%|███▍      | 40/115 [00:19<00:35,  2.14it/s] 36%|███▌      | 41/115 [00:19<00:38,  1.94it/s] 37%|███▋      | 42/115 [00:20<00:37,  1.96it/s] 37%|███▋      | 43/115 [00:20<00:42,  1.70it/s] 38%|███▊      | 44/115 [00:22<00:54,  1.30it/s] 39%|███▉      | 45/115 [00:22<00:49,  1.42it/s] 40%|████      | 46/115 [00:23<00:46,  1.48it/s] 41%|████      | 47/115 [00:23<00:42,  1.60it/s] 42%|████▏     | 48/115 [00:24<00:46,  1.44it/s] 43%|████▎     | 49/115 [00:25<00:45,  1.46it/s] 43%|████▎     | 50/115 [00:25<00:42,  1.54it/s] 44%|████▍     | 51/115 [00:26<00:38,  1.64it/s] 45%|████▌     | 52/115 [00:27<00:39,  1.60it/s] 46%|████▌     | 53/115 [00:27<00:38,  1.59it/s] 47%|████▋     | 54/115 [00:28<00:37,  1.64it/s] 48%|████▊     | 55/115 [00:28<00:31,  1.91it/s] 49%|████▊     | 56/115 [00:29<00:29,  2.02it/s] 50%|████▉     | 57/115 [00:29<00:25,  2.29it/s] 50%|█████     | 58/115 [00:29<00:23,  2.42it/s] 51%|█████▏    | 59/115 [00:30<00:21,  2.63it/s] 52%|█████▏    | 60/115 [00:30<00:23,  2.35it/s] 53%|█████▎    | 61/115 [00:31<00:23,  2.29it/s] 54%|█████▍    | 62/115 [00:31<00:24,  2.14it/s] 55%|█████▍    | 63/115 [00:32<00:26,  1.94it/s] 56%|█████▌    | 64/115 [00:32<00:25,  1.99it/s] 57%|█████▋    | 65/115 [00:33<00:24,  2.05it/s] 57%|█████▋    | 66/115 [00:33<00:24,  1.98it/s] 58%|█████▊    | 67/115 [00:34<00:22,  2.15it/s] 59%|█████▉    | 68/115 [00:34<00:21,  2.24it/s] 60%|██████    | 69/115 [00:34<00:21,  2.16it/s] 61%|██████    | 70/115 [00:35<00:21,  2.10it/s] 62%|██████▏   | 71/115 [00:35<00:20,  2.12it/s] 63%|██████▎   | 72/115 [00:36<00:20,  2.07it/s] 63%|██████▎   | 73/115 [00:36<00:18,  2.23it/s] 64%|██████▍   | 74/115 [00:37<00:17,  2.32it/s] 65%|██████▌   | 75/115 [00:37<00:17,  2.29it/s] 66%|██████▌   | 76/115 [00:38<00:18,  2.12it/s] 67%|██████▋   | 77/115 [00:38<00:18,  2.02it/s] 68%|██████▊   | 78/115 [00:39<00:17,  2.17it/s] 69%|██████▊   | 79/115 [00:39<00:17,  2.07it/s] 70%|██████▉   | 80/115 [00:40<00:15,  2.22it/s] 70%|███████   | 81/115 [00:40<00:14,  2.28it/s] 71%|███████▏  | 82/115 [00:40<00:14,  2.29it/s] 72%|███████▏  | 83/115 [00:41<00:13,  2.36it/s] 73%|███████▎  | 84/115 [00:41<00:13,  2.22it/s] 74%|███████▍  | 85/115 [00:42<00:13,  2.18it/s] 75%|███████▍  | 86/115 [00:42<00:14,  2.06it/s] 76%|███████▌  | 87/115 [00:43<00:15,  1.83it/s] 77%|███████▋  | 88/115 [00:43<00:14,  1.88it/s] 77%|███████▋  | 89/115 [00:44<00:12,  2.15it/s] 78%|███████▊  | 90/115 [00:44<00:11,  2.17it/s] 79%|███████▉  | 91/115 [00:45<00:12,  1.87it/s] 80%|████████  | 92/115 [00:46<00:13,  1.77it/s] 81%|████████  | 93/115 [00:46<00:12,  1.77it/s] 82%|████████▏ | 94/115 [00:47<00:11,  1.88it/s] 83%|████████▎ | 95/115 [00:47<00:10,  1.93it/s] 83%|████████▎ | 96/115 [00:48<00:10,  1.81it/s] 84%|████████▍ | 97/115 [00:48<00:09,  1.87it/s] 85%|████████▌ | 98/115 [00:49<00:08,  2.05it/s] 86%|████████▌ | 99/115 [00:49<00:07,  2.12it/s] 87%|████████▋ | 100/115 [00:49<00:06,  2.28it/s] 88%|████████▊ | 101/115 [00:50<00:06,  2.19it/s] 89%|████████▊ | 102/115 [00:50<00:06,  2.14it/s] 90%|████████▉ | 103/115 [00:51<00:05,  2.33it/s] 90%|█████████ | 104/115 [00:51<00:04,  2.26it/s] 91%|█████████▏| 105/115 [00:51<00:03,  2.56it/s] 92%|█████████▏| 106/115 [00:52<00:03,  2.37it/s] 93%|█████████▎| 107/115 [00:52<00:03,  2.44it/s] 94%|█████████▍| 108/115 [00:53<00:02,  2.62it/s] 95%|█████████▍| 109/115 [00:53<00:02,  2.75it/s] 96%|█████████▌| 110/115 [00:54<00:02,  1.86it/s] 97%|█████████▋| 111/115 [00:55<00:02,  1.64it/s] 97%|█████████▋| 112/115 [00:57<00:03,  1.00s/it] 98%|█████████▊| 113/115 [00:57<00:01,  1.21it/s] 99%|█████████▉| 114/115 [00:58<00:00,  1.39it/s]100%|██████████| 115/115 [00:58<00:00,  1.98it/s]
+tsv_main3.py:175: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  exemplar_label = torch.tensor(exemplar_labels).cuda()
+tsv_main3.py:182: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  augmented_labels = torch.concat((selected_labels, torch.tensor(exemplar_labels).clone().cuda()))
+Epoch 1/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 1/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 1/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 1/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                 epoch_loss: 0.0014665238559246063
+Epoch [1/20], Loss: 0.0015
+Best test AUROC: 0.8171, at epoch: 20
+Epoch 2/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 2/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 2/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.41it/s]Epoch 2/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.21it/s]                                                                 epoch_loss: 0.0012035675366253902
+Epoch [2/20], Loss: 0.0012
+Best test AUROC: 0.8173, at epoch: 21
+Epoch 3/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 3/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 3/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 3/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.21it/s]                                                                 epoch_loss: 0.0010032103843210887
+Epoch [3/20], Loss: 0.0010
+Best test AUROC: 0.8174, at epoch: 22
+Epoch 4/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 4/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 4/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.41it/s]Epoch 4/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.21it/s]                                                                 epoch_loss: 0.0008482560224365443
+Epoch [4/20], Loss: 0.0008
+Best test AUROC: 0.8176, at epoch: 23
+Epoch 5/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 5/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 5/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 5/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                 epoch_loss: 0.0007277644666222235
+Epoch [5/20], Loss: 0.0007
+Best test AUROC: 0.8177, at epoch: 24
+Epoch 6/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 6/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 6/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 6/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.21it/s]                                                                 epoch_loss: 0.0006332676760697117
+Epoch [6/20], Loss: 0.0006
+Best test AUROC: 0.8178, at epoch: 25
+Epoch 7/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 7/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 7/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 7/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                 epoch_loss: 0.000558355197426863
+Epoch [7/20], Loss: 0.0006
+Best test AUROC: 0.8178, at epoch: 26
+Epoch 8/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 8/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 8/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 8/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                 epoch_loss: 0.0004976877244189382
+Epoch [8/20], Loss: 0.0005
+Best test AUROC: 0.8179, at epoch: 27
+Epoch 9/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 9/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 9/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 9/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                 epoch_loss: 0.00044924693793291226
+Epoch [9/20], Loss: 0.0004
+Best test AUROC: 0.8180, at epoch: 28
+Epoch 10/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 10/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 10/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 10/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.21it/s]                                                                  epoch_loss: 0.00040927275889165077
+Epoch [10/20], Loss: 0.0004
+Best test AUROC: 0.8180, at epoch: 29
+Epoch 11/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 11/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 11/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 11/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.21it/s]                                                                  epoch_loss: 0.00037633965621353127
+Epoch [11/20], Loss: 0.0004
+Best test AUROC: 0.8181, at epoch: 30
+Epoch 12/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 12/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 12/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 12/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.00034880975605725933
+Epoch [12/20], Loss: 0.0003
+Best test AUROC: 0.8182, at epoch: 31
+Epoch 13/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 13/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 13/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 13/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.00032566328809480183
+Epoch [13/20], Loss: 0.0003
+Best test AUROC: 0.8182, at epoch: 32
+Epoch 14/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 14/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 14/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 14/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.0003061479947064072
+Epoch [14/20], Loss: 0.0003
+Best test AUROC: 0.8183, at epoch: 33
+Epoch 15/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 15/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 15/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 15/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.0002895106075205452
+Epoch [15/20], Loss: 0.0003
+Best test AUROC: 0.8183, at epoch: 34
+Epoch 16/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 16/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 16/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 16/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.00027504814170242753
+Epoch [16/20], Loss: 0.0003
+Best test AUROC: 0.8183, at epoch: 35
+Epoch 17/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 17/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.11it/s]Epoch 17/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 17/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.000262307745894456
+Epoch [17/20], Loss: 0.0003
+Best test AUROC: 0.8184, at epoch: 36
+Epoch 18/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 18/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.12it/s]Epoch 18/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.42it/s]Epoch 18/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.00025162169185932726
+Epoch [18/20], Loss: 0.0003
+Best test AUROC: 0.8184, at epoch: 37
+Epoch 19/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 19/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.12it/s]Epoch 19/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.43it/s]Epoch 19/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.00024194205570893246
+Epoch [19/20], Loss: 0.0002
+Best test AUROC: 0.8184, at epoch: 38
+Epoch 20/20 Batches:   0%|          | 0/3 [00:00<?, ?it/s]/data/zyy/LLM/tsv/train_utils.py:26: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.long, device=device)
+Epoch 20/20 Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.12it/s]Epoch 20/20 Batches:  67%|██████▋   | 2/3 [00:01<00:00,  1.43it/s]Epoch 20/20 Batches: 100%|██████████| 3/3 [00:02<00:00,  1.22it/s]                                                                  epoch_loss: 0.0002336078852446614
+Epoch [20/20], Loss: 0.0002
+Best test AUROC: 0.8184, at epoch: 39
+best_test_auroc: 0.8184347717950362

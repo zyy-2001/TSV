@@ -1,0 +1,79 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.32s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.29s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:03<00:01,  1.33s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.27s/it]
+  0%|          | 0/817 [00:00<?, ?it/s] 19%|█▊        | 152/817 [00:00<00:00, 1515.31it/s] 39%|███▉      | 319/817 [00:00<00:00, 1605.93it/s] 59%|█████▉    | 484/817 [00:00<00:00, 1625.28it/s] 80%|███████▉  | 650/817 [00:00<00:00, 1636.29it/s]100%|██████████| 817/817 [00:00<00:00, 1648.38it/s]100%|██████████| 817/817 [00:00<00:00, 1630.81it/s]
+Epoch 1/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]We detected that you are passing `past_key_values` as a tuple and this is deprecated and will be removed in v4.43. Please use an appropriate `Cache` class (https://huggingface.co/docs/transformers/v4.41.3/en/internal/generation_utils#transformers.Cache)
+Epoch 1/20 Batches: 100%|██████████| 1/1 [00:01<00:00,  1.00s/it]                                                                 epoch_loss: 0.7440831661224365
+Epoch [1/20], Loss: 0.7441
+Best test AUROC: 0.5346, at epoch: 0
+Epoch [1/20],Test AUROC: 0.5346
+Epoch 2/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 2/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.31it/s]                                                                 epoch_loss: 0.749543309211731
+Epoch [2/20], Loss: 0.7495
+Epoch [2/20],Test AUROC: 0.5271
+Epoch 3/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 3/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.43it/s]                                                                 epoch_loss: 0.6675686240196228
+Epoch [3/20], Loss: 0.6676
+Best test AUROC: 0.8219, at epoch: 2
+Epoch [3/20],Test AUROC: 0.8219
+Epoch 4/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 4/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                 epoch_loss: 0.4582398533821106
+Epoch [4/20], Loss: 0.4582
+Best test AUROC: 0.8318, at epoch: 3
+Epoch [4/20],Test AUROC: 0.8318
+Epoch 5/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 5/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.49it/s]                                                                 epoch_loss: 0.3446350693702698
+Epoch [5/20], Loss: 0.3446
+Best test AUROC: 0.8339, at epoch: 4
+Epoch [5/20],Test AUROC: 0.8339
+Epoch 6/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 6/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.48it/s]                                                                 epoch_loss: 0.2595939636230469
+Epoch [6/20], Loss: 0.2596
+Best test AUROC: 0.8394, at epoch: 5
+Epoch [6/20],Test AUROC: 0.8394
+Epoch 7/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 7/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.48it/s]                                                                 epoch_loss: 0.185542032122612
+Epoch [7/20], Loss: 0.1855
+Best test AUROC: 0.8401, at epoch: 6
+Epoch [7/20],Test AUROC: 0.8401
+Epoch 8/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 8/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                 epoch_loss: 0.14834898710250854
+Epoch [8/20], Loss: 0.1483
+Best test AUROC: 0.8414, at epoch: 7
+Epoch [8/20],Test AUROC: 0.8414
+Epoch 9/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 9/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                 epoch_loss: 0.1324179619550705
+Epoch [9/20], Loss: 0.1324
+Epoch [9/20],Test AUROC: 0.8403
+Epoch 10/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 10/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                  epoch_loss: 0.10516413301229477
+Epoch [10/20], Loss: 0.1052
+Epoch [10/20],Test AUROC: 0.8385
+Epoch 11/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 11/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.48it/s]                                                                  epoch_loss: 0.07274028658866882
+Epoch [11/20], Loss: 0.0727
+Epoch [11/20],Test AUROC: 0.8359
+Epoch 12/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 12/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.49it/s]                                                                  epoch_loss: 0.04958823695778847
+Epoch [12/20], Loss: 0.0496
+Epoch [12/20],Test AUROC: 0.8339
+Epoch 13/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 13/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.49it/s]                                                                  epoch_loss: 0.037408120930194855
+Epoch [13/20], Loss: 0.0374
+Epoch [13/20],Test AUROC: 0.8320
+Epoch 14/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 14/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                  epoch_loss: 0.03042379952967167
+Epoch [14/20], Loss: 0.0304
+Epoch [14/20],Test AUROC: 0.8313
+Epoch 15/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 15/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.48it/s]                                                                  epoch_loss: 0.023510608822107315
+Epoch [15/20], Loss: 0.0235
+Epoch [15/20],Test AUROC: 0.8313
+Epoch 16/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 16/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.48it/s]                                                                  epoch_loss: 0.01625751331448555
+Epoch [16/20], Loss: 0.0163
+Epoch [16/20],Test AUROC: 0.8321
+Epoch 17/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 17/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                  epoch_loss: 0.010297587141394615
+Epoch [17/20], Loss: 0.0103
+Epoch [17/20],Test AUROC: 0.8330
+Epoch 18/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 18/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.47it/s]                                                                  epoch_loss: 0.006323167122900486
+Epoch [18/20], Loss: 0.0063
+Epoch [18/20],Test AUROC: 0.8337
+Epoch 19/20 Batches:   0%|          | 0/1 [00:00<?, ?it/s]Epoch 19/20 Batches: 100%|██████████| 1/1 [00:00<00:00,  2.48it/s]                                                                  epoch_loss: 0.003977470099925995
+Traceback (most recent call last):
+  File "tsv_main2.py", line 692, in <module>
+    main()
+  File "tsv_main2.py", line 688, in main
+    train_model(model, optimizer, device, prompts, labels, args=args)
+  File "tsv_main2.py", line 142, in train_model
+    test_auroc = roc_auc_score(test_labels_combined.cpu().numpy(), test_predictions.cpu().numpy())  
+  File "/data/zyy/miniforge3/envs/tsv/lib/python3.8/site-packages/sklearn/metrics/_ranking.py", line 551, in roc_auc_score
+    y_score = check_array(y_score, ensure_2d=False)
+  File "/data/zyy/miniforge3/envs/tsv/lib/python3.8/site-packages/sklearn/utils/validation.py", line 921, in check_array
+    _assert_all_finite(
+  File "/data/zyy/miniforge3/envs/tsv/lib/python3.8/site-packages/sklearn/utils/validation.py", line 161, in _assert_all_finite
+    raise ValueError(msg_err)
+ValueError: Input contains NaN.
